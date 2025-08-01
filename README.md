@@ -1,2 +1,2 @@
 # Alarm-Clock
-An Arduino based Alarm clock that can play a song to wake you up
+An Arduino based alarm clock that can play a song to wake you up
